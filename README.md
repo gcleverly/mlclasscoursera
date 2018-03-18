@@ -1,7 +1,6 @@
 #mlclasscoursera
 
-{::nomarkdown}
-
+```html
 <!DOCTYPE html>
 <meta charset="utf-8">
 <style> /* set the CSS */
@@ -98,4 +97,4 @@ d3.csv("Lil_YachtyColorTest2.csv", function(error, flatData) {
 </script>
 </body>
 
-{:/}
+'''
